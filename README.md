@@ -1,4 +1,4 @@
-# Simple Calculator
+<img width="660" height="401" alt="image" src="https://github.com/user-attachments/assets/e75dd35c-f7a6-4f9e-bdb8-5a21b0fb7738" /># Simple Calculator
 
 A basic calculator web application built using HTML, CSS, and JavaScript. This project allows users to perform simple arithmetic operations like addition, subtraction, multiplication, and division.
 
@@ -14,4 +14,4 @@ A basic calculator web application built using HTML, CSS, and JavaScript. This p
 - JavaScript
 
 ## 🚀 Live Demo
-[Click here to view the calculator](https://your-live-link.netlify.app)
+[Click here to view the calculator](https://marsion77.github.io/basic-calculator-app/)
