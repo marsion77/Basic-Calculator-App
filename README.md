@@ -1,4 +1,4 @@
-<img width="660" height="401" alt="image" src="https://github.com/user-attachments/assets/e75dd35c-f7a6-4f9e-bdb8-5a21b0fb7738" /># Simple Calculator
+# Simple Calculator
 
 A basic calculator web application built using HTML, CSS, and JavaScript. This project allows users to perform simple arithmetic operations like addition, subtraction, multiplication, and division.
 
