@@ -15,7 +15,7 @@ A basic calculator web application built using HTML, CSS, and JavaScript. This p
 
   ## Screeshot
 
-  <img width="997" height="864" alt="image" src="https://github.com/user-attachments/assets/4399228a-c5c3-4980-bc04-5dfacbf1a368" />
+  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/4399228a-c5c3-4980-bc04-5dfacbf1a368" />
 
 
 ## 🚀 Live Demo
