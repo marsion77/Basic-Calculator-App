@@ -19,4 +19,4 @@ A basic calculator web application built using HTML, CSS, and JavaScript. This p
 
 
 ## 🚀 Live Demo
-[Click here to view the calculator](https://marsion77.github.io/basic-calculator-app/)
+https://playful-choux-b9d628.netlify.app/
